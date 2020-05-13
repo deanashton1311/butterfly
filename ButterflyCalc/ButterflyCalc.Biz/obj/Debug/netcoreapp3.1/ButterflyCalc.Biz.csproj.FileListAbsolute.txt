@@ -1,0 +1,12 @@
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\bin\Debug\netcoreapp3.1\ButterflyCalc.Biz.deps.json
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\bin\Debug\netcoreapp3.1\ButterflyCalc.Biz.dll
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\bin\Debug\netcoreapp3.1\ButterflyCalc.Biz.pdb
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\bin\Debug\netcoreapp3.1\ButterflyCalc.Common.dll
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\bin\Debug\netcoreapp3.1\ButterflyCalc.Common.pdb
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.csprojAssemblyReference.cache
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.AssemblyInfoInputs.cache
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.AssemblyInfo.cs
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.csproj.CopyComplete
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.dll
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.pdb
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Biz\obj\Debug\netcoreapp3.1\ButterflyCalc.Biz.csproj.CoreCompileInputs.cache

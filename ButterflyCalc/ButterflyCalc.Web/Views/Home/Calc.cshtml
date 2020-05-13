@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Calc";
+}
+
+<div id="calc-app">
+    <div class="row">
+        <div class="col-6">
+            <div class="row">
+                <h4>Calculator</h4>
+            </div>
+            <div class="row">
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a v-bind:class="{'nav-link':true, 'active':(operation === 'add')}" href="#" v-on:click="pickOperation('add')">Add</a>
+                    </li>
+                    <li class="nav-item">
+                        <a v-bind:class="{'nav-link':true, 'active':(operation === 'subtract')}" href="#" v-on:click="pickOperation('subtract')">Subtract</a>
+                    </li>
+                    <li class="nav-item">
+                        <a v-bind:class="{'nav-link':true, 'active':(operation === 'multiply')}" href="#" v-on:click="pickOperation('multiply')">Multiply</a>
+                    </li>
+                    <li class="nav-item">
+                        <a v-bind:class="{'nav-link':true, 'active':(operation === 'divide')}" href="#" v-on:click="pickOperation('divide')">Divide</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="row mt-1">
+                <form>
+                    <div class="form-group">
+                        <label for="first-number">{{firstNumberDesc}}</label>
+                        <input type="text" class="form-control" v-model="firstNumber" id="first-number">
+                    </div>
+                    <div class="form-group">
+                        <label for="second-number">{{secondNumberDesc}}</label>
+                        <input type="text" class="form-control" v-model="secondNumber" id="second-number">
+                    </div>
+                    <button type="button" class="btn btn-primary" v-on:click="calc">Calculate</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="row">
+                <h4>Result</h4>
+            </div>
+            <div class="row">
+                <p>{{firstNumber}} {{operation}} {{secondNumber}} = {{calculatorResult}}</p>
+            </div>
+            <div class="row">
+                <p>{{errorMessage}}</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="text/javascript" src="~/js/calc.js"></script>
+}

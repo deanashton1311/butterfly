@@ -1,0 +1,9 @@
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\bin\Debug\netcoreapp3.1\ButterflyCalc.Common.deps.json
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\bin\Debug\netcoreapp3.1\ButterflyCalc.Common.dll
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\bin\Debug\netcoreapp3.1\ButterflyCalc.Common.pdb
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.csproj.CoreCompileInputs.cache
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.AssemblyInfoInputs.cache
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.AssemblyInfo.cs
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.dll
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.pdb
+D:\Dean\Coding\Code\Technical Tests\ButterflySystems\ButterflyCalc\ButterflyCalc.Common\obj\Debug\netcoreapp3.1\ButterflyCalc.Common.csprojAssemblyReference.cache
