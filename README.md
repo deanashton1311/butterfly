@@ -19,8 +19,5 @@ Also the logging is currently pretty verbose right now - we should revisit this 
 ## Validation
 I did put some validation in around exceeding decimal max and min (see unit tests) and division by zero but would like to ask the business / product owner / business analyst if there is anything I have not considered.
 
-This might be a good starting point for discussions:
-https://www.bayesserver.com/Techniques/NumericalCode.aspx
-
 ## Security
 I did not put any security on the API - this needs to be set up before releasing to production. 
