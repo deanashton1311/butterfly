@@ -21,3 +21,6 @@ I did put some validation in around exceeding decimal max and min (see unit test
 
 ## Security
 I did not put any security on the API - this needs to be set up before releasing to production. 
+
+## Retry Policy
+I did not set up any retry policies for this API. I am aware this has been getting a lot of press lately as a best practice, but haven't done any research on how to implement it, so didn't spend any time on it for this tech test. In a real life scenario, I would check if this was necessary with the business, if so do the research and implement it. If it was not needed straight away, I would create a tech debt technical ticket to be added to the backlog to be looked at sometime in the future.
