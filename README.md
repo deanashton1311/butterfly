@@ -12,9 +12,9 @@ There are two main parts to the calculator itself:
 * The CalculatorService - CalculatorController calls this service to perform the calculation - this is where the actual calculation is performed
 
 ## Logging
-The calculator uses Serilog to log operations to a text file in the root directory of the API. I would normally put this not in the root directory of the API, as logs would get destroyed when the next verion of the API is released again, this should be revisited for actual logging location once we know where the API is being deployed. Or we might want to log to a database etc.
+The calculator uses Serilog to log operations to a text file in the root directory of the API. I would normally put this in a different folder path (as logs would get destroyed when the next verion of the API is released again). This path should be revisited, once we know where the API is being deployed. Or we might want to log to a database or online logging solution, which Serilog can do too.
 
-Also it is currently pretty verbose and we might want to revisit this before releasing to production.
+Also the logging is currently pretty verbose right now - we should revisit this before releasing to production.
 
 ## Validation
 I did put some validation in around exceeding decimal max and min (see unit tests) and division by zero but would like to ask the business / product owner / business analyst if there is anything I have not considered.
@@ -23,4 +23,4 @@ This might be a good starting point for discussions:
 https://www.bayesserver.com/Techniques/NumericalCode.aspx
 
 ## Security
-I did not put any security on the API - this needs setting up before releasing to production. 
+I did not put any security on the API - this needs to be set up before releasing to production. 
